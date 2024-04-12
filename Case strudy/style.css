@@ -168,3 +168,9 @@ section .content{
         margin-right: none;
     }
 }
+.product {
+    display: flex;
+    flex-wrap: wrap;
+    background: yellow;
+    padding: 0px 100px 0px 100px; 
+}
